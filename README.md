@@ -1,4 +1,4 @@
-```markdown
+
 # SQL Agent with LangChain and PostgreSQL
 
 This project demonstrates how to use **LangChain**, **OpenAI**, and **SQLAlchemy** to interact with a PostgreSQL database, execute SQL queries, and utilize a React-like agent to process user queries in natural language. The code connects to a PostgreSQL database, creates tools for database interaction, and leverages a Large Language Model (LLM) to analyze and respond to user queries about the database.
